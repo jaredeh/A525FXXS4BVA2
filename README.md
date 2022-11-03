@@ -1,2 +1,0 @@
-# A525FXXS4BVA2
-A52 kernel
